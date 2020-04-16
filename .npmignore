@@ -1,0 +1,16 @@
+.nyc_output
+coverage
+node_modules
+src
+.editorconfig
+.eslintignore
+.eslintrc.json
+.gitignore
+.mocharc.jsonc
+.npmignore
+.nycrc.json
+.prettierignore
+.prettierrc.toml
+tsconfig.json
+yarn-error.log
+yarn.lock
