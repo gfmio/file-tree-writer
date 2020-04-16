@@ -1,6 +1,6 @@
 {
   "name": "file-tree-writer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utilities for writing trees of files, directories and symbolic links",
   "author": {
     "email": "npm@gfm.io",
